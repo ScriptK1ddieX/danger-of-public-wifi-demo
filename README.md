@@ -59,6 +59,14 @@ This project is NOT a malicious tool. It’s designed for:
 
 ---
 
+## 🔍 Demo Screenshot
+
+This is how the spoofed webpage appears when a victim connects to the public Wi-Fi:
+
+![ESP32 Webserver Demo](screenshots/webpage-demo.png)
+
+---
+
 ## 🚫 Limitations
 
 - Only works with **HTTP** traffic (not HTTPS)
