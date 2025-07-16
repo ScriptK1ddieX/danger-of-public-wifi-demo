@@ -89,5 +89,10 @@ This is a solo-built project integrating IoT with cybersec — blending hardware
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/anish-sharma-547b72256)
 
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](./LICENSE).
 
 
