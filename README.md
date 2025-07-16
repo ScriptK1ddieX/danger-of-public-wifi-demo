@@ -63,7 +63,7 @@ This project is NOT a malicious tool. It’s designed for:
 
 This is how the spoofed webpage appears when a victim connects to the public Wi-Fi:
 
-![ESP32 Webserver Demo](screenshots/webpage-demo.png)
+![ESP32 Webserver Demo](assets/screenshots/webpage-demo.png)
 
 ---
 
